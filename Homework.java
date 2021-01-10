@@ -4,8 +4,9 @@ public class Homework1 {
 	
 	public static void main(String[] args) {
 //      一	
-		int i = 6;
+		int i = 6; //b
 		int j = 12;
+		int master; //a
 		
 		System.out.println("6 + 12 =" + (i + j));
 		System.out.println("6 * 12 =" + (i * j));
