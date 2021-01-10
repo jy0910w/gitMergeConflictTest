@@ -6,11 +6,9 @@ public class Homework1 {
 //      一	
 		int i = 6; //b
 		int j = 12;
-<<<<<<< HEAD
 		int master; //a
-=======
 		String cartoon;
->>>>>>> cartoon
+
 		
 		System.out.println("6 + 12 =" + (i + j));
 		System.out.println("6 * 12 =" + (i * j));
