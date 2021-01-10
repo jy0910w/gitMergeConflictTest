@@ -6,6 +6,7 @@ public class Homework1 {
 //      一	
 		int i = 6;
 		int j = 12;
+		int sleep;
 		
 		System.out.println("6 + 12 =" + (i + j));
 		System.out.println("6 * 12 =" + (i * j));
